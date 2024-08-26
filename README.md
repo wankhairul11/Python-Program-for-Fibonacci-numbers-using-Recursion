@@ -16,7 +16,9 @@ Incorporates memoization to store and reuse previously computed values.
 Reduces redundant calculations and improves performance, making it efficient for larger values of n.
 Complexity:
 
-Basic Recursive: Exponential time complexity 
+Basic Recursive:
+
+Exponential time complexity 
 𝑂
 (
 2
@@ -25,7 +27,9 @@ Basic Recursive: Exponential time complexity
 O(2 
 n
  ).
-Memoized: Linear time complexity 
+Memoized:
+
+Linear time complexity 
 𝑂
 (
 𝑛
